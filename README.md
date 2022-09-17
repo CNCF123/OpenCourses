@@ -1,5 +1,3 @@
-OpenCourses
-
 ### 阿里云云原生技术公开课
 https://edu.aliyun.com/roadmap/cloudnative
 
